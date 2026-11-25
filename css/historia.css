@@ -1,0 +1,93 @@
+
+
+
+body {
+    background-color: #f1f1d0;
+    font-family: Arial;
+    margin: 20px;
+}
+
+
+h1 {
+    background-color: #165b33;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border: 3px solid #c62828;
+}
+#titulo {
+    color: #165b33;
+    background-color: #e5d6a7;
+    padding: 15px;
+
+
+}
+
+
+nav {
+    background-color: #165b33;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid #c62828;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: #c62828;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #f1f1d0;
+    color: #165b33;
+}
+
+
+.contenedor {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+.cuadro {
+    background-color: rgb(21, 83, 51);
+    border: 2px solid #165b33;
+    padding: 15px;
+    margin: 10px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+}
+
+.cuadro p {
+    text-align: justify;
+}
+
+
+.tradiciones {
+    text-align: center;
+}
+
+.tarjeta {
+    background-color: #165b33;
+    color: white;
+    width: 25%;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.tarjeta p {
+    color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
